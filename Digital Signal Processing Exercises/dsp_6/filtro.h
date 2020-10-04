@@ -1,0 +1,10 @@
+#define A1_1 43532
+#define A1_2 15443
+#define A2_1 49941
+#define A2_2 7197
+#define B1_1 56698
+#define B1_2 16382
+#define B2_1 43633
+#define B2_2 16383
+#define G1_two 6726
+#define G2_two 12042
